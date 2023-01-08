@@ -1,0 +1,14 @@
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\bin\Debug\net6.0\Xarajat.Data.deps.json
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\bin\Debug\net6.0\Xarajat.Data.runtimeconfig.json
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\bin\Debug\net6.0\Xarajat.Data.dll
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\bin\Debug\net6.0\Xarajat.Data.pdb
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.csproj.AssemblyReference.cache
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.AssemblyInfoInputs.cache
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.AssemblyInfo.cs
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.dll
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\refint\Xarajat.Data.dll
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.pdb
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\Xarajat.Data.genruntimeconfig.cache
+C:\Users\Sardor Sohinazarov\OneDrive\Desktop\.Net Projects\Xarajat.Bot\Xarajat.Bot\Xarajat.Data\obj\Debug\net6.0\ref\Xarajat.Data.dll
